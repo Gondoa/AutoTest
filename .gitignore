@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+target-fastapi/
+target-json-server/
